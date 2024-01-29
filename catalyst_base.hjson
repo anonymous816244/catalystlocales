@@ -1,3 +1,5 @@
 {
-  "test_localization": "Hello, World!"
+  "test_localization": {
+    ru: Тест
+  }
 }

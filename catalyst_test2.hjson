@@ -1,4 +1,6 @@
 {
-  "new_value": "hi",
-  "test_localization": "my version!"
+  super:
+  {
+    ru: супер блять
+  }
 }
