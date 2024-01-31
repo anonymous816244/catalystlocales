@@ -15,4 +15,12 @@
   {
     ru: Нельзя выбрать бота.
   }
+  balance_transfer_text:
+  {
+    ru: "{user1} передал {amount} пользователю {user2}."
+  }
+  embed_error_title:
+  {
+    ru: Ошибка
+  }
 }
