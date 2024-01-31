@@ -7,4 +7,12 @@
   {
     ru: Баланс {member}: {balance}
   }
+  checker_error_not_enough_balance:
+  {
+    ru: У Вас недостаточно средств.
+  }
+  checker_error_member_is_bot:
+  {
+    ru: Нельзя выбрать бота.
+  }
 }
