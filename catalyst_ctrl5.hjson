@@ -1,0 +1,10 @@
+{
+  balance_title:
+  {
+    ru: Баланс
+  }
+  balance_description:
+  {
+    ru: Баланс {member}: {balance}
+  }
+}
